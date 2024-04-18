@@ -1,0 +1,20 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: "Open Sans", sans-serif;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.itemDes {
+  font-family: "Open Sans", sans-serif;
+  height: 9rem
+}
